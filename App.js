@@ -3,7 +3,7 @@ import React from 'react';
 import AppNavigator from './navigation/AppNavigator';
 
 const App = () => {
-  const demo = '';
+  const demo = 'xxxxx';
   return <AppNavigator />;
 };
 
